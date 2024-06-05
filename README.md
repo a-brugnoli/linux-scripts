@@ -1,2 +1,2 @@
-# linux_scripts
+# linux-scripts
 Bash scripts for linux
